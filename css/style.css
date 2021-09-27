@@ -644,7 +644,8 @@ margin: 40px 0;
     grid-gap: 18px;
 
 }
-.product-item{
+.product-item .product-img img{
+    max-width: 100%;
 
 }
 
@@ -660,6 +661,7 @@ margin: 40px 0;
 }
 .product-overlay img{
     opacity: 0.7;
+    max-width: 100%;
 }
 .product-overlay-ul{
     list-style: none;
